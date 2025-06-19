@@ -26,7 +26,7 @@ This project focuses on analyzing **ride cancellation patterns** in the Ola Cab 
 
 ## 📷 Dashboard Snapshots
 
-![Dashboard Screenshot](images/snapshot1.png)  
+![Dashboard Screenshot](https://github.com/flemingbap14/Ola_Rides/blob/main/Ola%20Dashborad.png)]
 
 ## 🧠 Learnings
 
